@@ -1,6 +1,6 @@
 # Project Name
 
-<img src="android/app/src/main/res/mipmap-hdpi/ic_app.png" alt="Rick and Morty" width="400" />
+<img src="storyappbigio/android/app/src/main/res/mipmap-hdpi/ic_app.png" alt="Rick and Morty" width="400" />
 
 Take Home Challenge - Rick And Morty
 
